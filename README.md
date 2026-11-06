@@ -71,6 +71,8 @@ This release includes English credits and documentation. Windows-based automated
 
 Updated source files are in Sources. Build scripts depend on the parent development workspace's SDL2, CMake, Ninja, Zig and Android tools. Binary toolchains, ROMs, personal saves, caches and private signing keys are excluded from this distribution.
 
+(CODEX was used in this project.)
+
 So....
 
 HAVE FUN!
