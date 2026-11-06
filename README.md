@@ -1,8 +1,6 @@
 <img width="1917" height="1078" alt="Captura de tela 2026-11-06 004548" src="https://github.com/user-attachments/assets/65cf4cc7-f2d0-47ad-bc5e-c4f576a6d113" />
 
-# Beginnings-OpNER
-Beginnings OpNER, by Edzito, is an emulator specifically for EarthBound Beginnings Remake, a ROM hack by EBBR Team and PK Hack. Available for Windows, Linux, macOS and Android, with fullscreen play, keyboard, mouse, gamepad and touch controls, CRT filters, save states and quality-of-life features. Independent project. No ROM included.       0:32
-Beginnings OpNER, by Edzito, is an emulator specifically for EarthBound Beginnings Remake, a ROM hack by EBBR Team and PK Hack. Available for Windows, Linux, macOS and Android, with fullscreen play, keyboard, mouse, gamepad and touch controls, CRT filters, save states and quality-of-life features. Independent project. No ROM included.
+# Beginnings OpNER
 
 A dedicated emulator frontend for the EarthBound Beginnings Remake (EBBR) SNES ROM hack. This independent project is not affiliated with the EBBR team, Nintendo, or SHIGESATO ITOI/HOBONICHI. Please see CREDITOS.md for the remake staff and acknowledgments.
 
