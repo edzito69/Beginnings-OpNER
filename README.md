@@ -1,8 +1,26 @@
-# Beginnings OpNER 3.8.7
+<img width="1917" height="1078" alt="Captura de tela 2026-11-06 004548" src="https://github.com/user-attachments/assets/65cf4cc7-f2d0-47ad-bc5e-c4f576a6d113" />
 
-OpNER by Edzito
+# Beginnings-OpNER
+Beginnings OpNER, by Edzito, is an emulator specifically for EarthBound Beginnings Remake, a ROM hack by EBBR Team and PK Hack. Available for Windows, Linux, macOS and Android, with fullscreen play, keyboard, mouse, gamepad and touch controls, CRT filters, save states and quality-of-life features. Independent project. No ROM included.       0:32
+Beginnings OpNER, by Edzito, is an emulator specifically for EarthBound Beginnings Remake, a ROM hack by EBBR Team and PK Hack. Available for Windows, Linux, macOS and Android, with fullscreen play, keyboard, mouse, gamepad and touch controls, CRT filters, save states and quality-of-life features. Independent project. No ROM included.
 
 A dedicated emulator frontend for the EarthBound Beginnings Remake (EBBR) SNES ROM hack. This independent project is not affiliated with the EBBR team, Nintendo, or SHIGESATO ITOI/HOBONICHI. Please see CREDITOS.md for the remake staff and acknowledgments.
+
+This is still experimental, okay? Tweaks are needed.
+
+## HIGHLIGHTS
+- Fullscreen presentation with 1080p output.
+- Expanded scenery and adjustable camera zoom.
+- Keyboard, mouse and gamepad support.
+- Click-to-move controls using the game’s normal collision rules.
+- Save states organized into drawers, with screenshot previews.
+- Quicksaves, quick loading and autosaves.
+- Fast-forward and rewind.
+- Customizable CRT filters with four personal presets.
+- Mirrored psychedelic battle backgrounds and subtle enemy movement.
+- Optional Double XP, Double Difficulty and Enemy Diversity modifiers.
+- A manual “Where to go?” progression guide.
+- A 60 FPS presentation target; actual performance depends on your hardware.
 
 ## Your own ROM is required
 
@@ -49,10 +67,15 @@ CRT offers several filters, adjustable parameters and four personal presets. Sha
 
 The frontend supports expanded scenery, manual zoom, full-screen output and a 60 FPS presentation target; Android also offers 30 FPS. Actual frame rate and audio continuity depend on the device. The underlying ROM artwork remains pixel art. Initial logos and notices are presented once, centered on their own background. Musical effects during gameplay use a separate background compositor.
 
-This release includes English credits and documentation. Windows-based automated checks were run during development; physical Android testing and runtime testing on Linux/macOS are still needed. There is no guarantee of a constant 60 FPS on every device or of compatibility with every ROM revision or controller.
-
-## Source and previous versions
+This release includes English credits and documentation. Windows-based automated checks were run during development; physical Android testing and runtime testing on macOS are still needed. There is no guarantee of a constant 60 FPS on every device or of compatibility with every ROM revision or controller.
 
 Updated source files are in Sources. Build scripts depend on the parent development workspace's SDL2, CMake, Ninja, Zig and Android tools. Binary toolchains, ROMs, personal saves, caches and private signing keys are excluded from this distribution.
 
-Older APKs and archives may remain beside the current release. Use version 3.8.7 for the English credits update. Back up your saves before changing versions.
+So....
+
+HAVE FUN!
+
+THANKS EBBR TEAM AND PK HACK!
+
+
+
